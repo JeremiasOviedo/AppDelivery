@@ -8,7 +8,7 @@ Jeremias es un delivery que trabaja para una pizzeria local junto con otros deli
 La pizzeria le otorga un pedido y cuando el lo entrega tiene que cobrar un costo adicional por su trabajo
 Ejemplo: si jeremias entrega una pizza de $900 el la cobra $1000.
 Al final de la noche jeremias tiene que abonar el monto de todos los pedidos que entrego esa noche, quedandose con el dinero que cobro de mas x su trabajo.
-Ejemplo: si en toda la noche jeremias entrego 3 pizzas de $900 debera pagarle al local $1800 quedandose asi con $300 (recordemos los $100 que cobro de mas x cada pizza)
+Ejemplo: si en toda la noche jeremias entrego 3 pizzas de $900 debera pagarle al local $2700 quedandose asi con $300 (recordemos los $100 que cobro de mas x cada pizza)
 
 El problema reside en que al haber varios deliverys puede ser que se le sume una pizza que el no entregó debiendo asi pagar de mas.
 
